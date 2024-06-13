@@ -1,0 +1,1 @@
+This project aims to predict whether a borrower will repay their loan using a Support Vector Machine (SVM) model. By analyzing borrower characteristics and loan details, the model can classify whether a loan is likely to be repaid or defaulted.
